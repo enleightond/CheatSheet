@@ -31,12 +31,14 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git commit -m "<commit message>"` - __Fill Me Out__
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+Branching as I understand it. You have a file in git and want to work on it. You create a branch with git branch. This creates a separate time line, that you can then make changes. When finished use merge to merge the branch with the master branch.
 
-`$ git branch` - __Fill Me Out__
+`$ git branch <branch name>` - __create a new branch__ with branch name is whatever you want.
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git branch` - __Lists all of the branches in the repository__
+
+`$ git checkout <branch name>` - __Git checkout is a way for you to move from one branch to another.__
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - __Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.__
