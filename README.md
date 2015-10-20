@@ -1,4 +1,5 @@
 ## Cheat Sheet
+### Cairo is Supreme
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
