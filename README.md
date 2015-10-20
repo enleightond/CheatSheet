@@ -14,22 +14,22 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Repo Status
 `$ git status` - Check the status of your current repository and see which files have changed.
 
-`$ git diff` - __Fill Me Out__
+`$ git diff` - HELLO
 
 #### Repo History
-`$ git log` - __Fill Me Out__
+`$ git log` - HELLO
 
-`$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
+`$ git log --oneline --decorate --color --graph --all` - HELLO
 
-`$ git log -p [filename]` __Fill Me Out__
+`$ git log -p [filename]` HELLO
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - HELLO
 
-`$ git add -A` - __Fill Me Out__
+`$ git add -A` - HELLO
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - HELLO
 
 #### Branching
 Branching as I understand it. You have a file in git and want to work on it. You create a branch with git branch. This creates a separate time line, that you can then make changes. When finished use merge to merge the branch with the master branch.
