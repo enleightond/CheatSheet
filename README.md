@@ -1,5 +1,6 @@
 ## Cheat Sheet
-### Cairo is Supreme
+### Cairo is not supreme
+
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
